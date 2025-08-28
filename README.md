@@ -40,4 +40,4 @@ npm run dev
 
 App will be live at 👉 http://localhost:3000
 
-Screenshot:<img width="750" height="830" alt="496" src="https://github.com/user-attachments/assets/3e73db60-e98e-4018-b2ec-f0cd7bc03612" />
+Screenshot:<img width="741" height="801" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/2715b822-e024-46d1-a644-8e6fedc4a3f6" />
